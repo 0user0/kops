@@ -1,0 +1,4 @@
+#!/bin/sh
+#fake aws keys
+A=AKIAIOSFODNN7DLVXAXD
+S=wJalrXUtnFEMI/K7MDENG/bPxRfiCYLSCTBSWBVT
